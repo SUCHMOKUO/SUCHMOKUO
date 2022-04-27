@@ -1,9 +1,11 @@
-# <img src="https://media.giphy.com/media/0T23bQ5zu0lt4TnLI3/giphy.gif" width="80px"></a>\_(•̀ω•́ 」∠)\_
+# <img src="https://media.giphy.com/media/0T23bQ5zu0lt4TnLI3/giphy.gif" width="80px"></a>\_(•̀ω•́ 」∠)\_ I'm Mokuo
 
-😄 I'm mokuo, a **Frontend Developer** who is learning **DevOps**.
+### 👋 About Me:
+- 😋 I'm a Frontend Developer and also deal with infra sometimes <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Talk to me about JS, UI Framework, Golang, DevOps
+- 🤔 Fun fact: \[object Object\]
 
-
-## ⚡ Technologies & Tools
+### ⚡ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -37,5 +39,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=arch-linux)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25px'> My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SUCHMOKUO&count_private=true&show_icons=true&theme=swift" />
