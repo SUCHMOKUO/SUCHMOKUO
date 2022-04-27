@@ -24,15 +24,16 @@
   <img src="https://img.shields.io/badge/-Jest-383637?style=flat-square&logo=jest&logoColor=C21325" />
   <img src="https://img.shields.io/badge/-esbuild-black?style=flat-square&logo=esbuild" />
   <img src="https://img.shields.io/badge/-Webpack-2e3a41?style=flat-square&logo=webpack" />
-  <img src="https://img.shields.io/badge/-ESLint-aaaaaa?style=flat-square&logo=eslint&logoColor=4B32C3" />
+  <img src="https://img.shields.io/badge/-ESLint-1b1c44?style=flat-square&logo=eslint&logoColor=4B32C3" />
   <img src="https://img.shields.io/badge/-Prettier-1e2b33?style=flat-square&logo=prettier" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
   <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
   <img src="https://img.shields.io/badge/-Terraform-7345b6?style=flat-square&logo=terraform" />
   <img src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-Buildkite-black?style=flat-square&logo=buildkite" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-999999?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" />
