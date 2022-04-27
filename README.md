@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/0T23bQ5zu0lt4TnLI3/giphy.gif" width="80px"></a>(⁎˃ᆺ˂) I'm Mokuo
+# <img src="https://media.giphy.com/media/0T23bQ5zu0lt4TnLI3/giphy.gif" width="80px" /> (⁎˃ᆺ˂) I'm Mokuo
 
-### 👋 About Me:
-- 🎉 I'm a Frontend Developer and also deal with infra sometimes <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### <img src="https://c.tenor.com/I2AFQNiMKwsAAAAi/cute-anime.gif" height="30px" /> About Me:
+- 🎉 I'm a Frontend Developer and also deal with infra sometimes <img src="https://c.tenor.com/CJSGt0M6gfIAAAAi/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif" width="30px">
 - 💬 Talk to me about JS, UI Framework, Golang, DevOps
 - 🤔 Fun fact: \[object Object\]
 
