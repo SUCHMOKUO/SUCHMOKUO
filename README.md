@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
   <img src="https://img.shields.io/badge/-Jest-383637?style=flat-square&logo=jest&logoColor=C21325" />
   <img src="https://img.shields.io/badge/-esbuild-black?style=flat-square&logo=esbuild" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=f6c94b" />
   <img src="https://img.shields.io/badge/-Webpack-2e3a41?style=flat-square&logo=webpack" />
   <img src="https://img.shields.io/badge/-ESLint-1b1c44?style=flat-square&logo=eslint&logoColor=4B32C3" />
   <img src="https://img.shields.io/badge/-Prettier-1e2b33?style=flat-square&logo=prettier" />
