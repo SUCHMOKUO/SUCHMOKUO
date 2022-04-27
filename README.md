@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" />
 </p>
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25px'> My Github Stats
+### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="30px"> My Github Stats:
 
 | Github Stats | Top Languages |
 | --- | --- |
