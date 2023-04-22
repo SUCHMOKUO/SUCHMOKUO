@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Golang-007d9c?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
   <img src="https://img.shields.io/badge/-Jest-383637?style=flat-square&logo=jest&logoColor=C21325" />
